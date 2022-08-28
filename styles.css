@@ -6,3 +6,15 @@ textarea {
     padding: 1rem;
 
 }
+
+#output {
+    background-color: yellow;
+    font-weight: bolder;
+    opacity: 30%;
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+
+}
