@@ -1,3 +1,15 @@
+:root {
+    --bgcolor: #fde047;
+}
+
+body {background-color: var(--bgcolor);}
+
+#btn-translate {
+    background-color: white; 
+  color: black; 
+  border: 2px solid #fbbf24;
+  }
+
 textarea {
     width: 80%;
     height: 10vh;
@@ -8,9 +20,8 @@ textarea {
 }
 
 #output {
-    background-color: yellow;
+    background-color: whitesmoke;
     font-weight: bolder;
-    opacity: 30%;
     border: 1px solid black;
     height: 10vh;
     width: 80%;
